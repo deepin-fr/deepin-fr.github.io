@@ -1,0 +1,3 @@
+[submodule "deepin-tools"]
+	path = deepin-tools
+	url = https://github.com/kayoo123/deepin-fr.org
